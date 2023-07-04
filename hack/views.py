@@ -3,7 +3,7 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 @api_view(['GET', 'POST'])
